@@ -16,7 +16,7 @@ div {
     font-size: 24px;
 }
 
- #two {
+#two {
     color: #0400ff;
     font-size: 36px;
 }
@@ -25,4 +25,8 @@ div {
     background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
+}
+div #button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman','sans-serif';
 }
